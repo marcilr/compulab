@@ -1,0 +1,18 @@
+uSVR.txt
+Created Thu 30 Jul 2020 03:38:26 PM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+uSVR
+o Fanless low-power micro-server with Intel Core-i7 and 16 GB ECC RAM
+o Four internal 2.5” HDDs in RAID 5 + mSATA
+o Up to 6 GbE ports
+o Ruggedized all-metal design for extreme environments
+
+
+Links
+=====
+Compulba uSVR
+o Fanless low-power micro-server with Intel Core-i7 and 16 GB ECC RAM
+https://www.compulab.com/products/embedded-pcs/usvr/
+

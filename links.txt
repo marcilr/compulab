@@ -1,0 +1,18 @@
+links.txt
+Created Thu 30 Jul 2020 03:29:52 PM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Compulab IoT Gateways related links
+
+
+Links
+=====
+Compulab IoT Gateways
+Includes:
+o IOT-GATE-iMX8: ARM IoT Gateway
+o IOT-GATE-RPi: Raspberry Pi IoT Gateway
+o IOT-GATE-iMX7: ARM IoT Gateway
+o IOT-GATE-APL (fitlet2): Intel Atom IoT Gateway
+  Own a few of these.  Very nice.
+https://www.compulab.com/products/iot-gateways/

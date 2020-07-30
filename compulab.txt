@@ -1,0 +1,20 @@
+compulab.txt
+Created Thu 30 Jul 2020 03:29:44 PM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Compulab IoT Gateways
+
+
+"CompuLab IoT Gateways are highly customizable and cost effective 
+industrial systems designed for Internet of Things connectivity 
+and remote control and monitoring applications."
+--Compulab IoT Gateways
+  https://www.compulab.com/products/iot-gateways/
+
+
+Links
+=====
+Compulab IoT Gateways
+https://www.compulab.com/products/iot-gateways/
+

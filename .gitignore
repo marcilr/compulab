@@ -1,0 +1,8 @@
+#.gitignore
+# Created Sun 10 Apr 2022 07:28:32 PM AKDT
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+fitlet2/
